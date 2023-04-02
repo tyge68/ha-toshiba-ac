@@ -7,6 +7,7 @@ Copy this code your HA config/custom_components/toshiba_ac
 Add in your configuration.yaml this extension with parameters to access your device.
 
 ```
+toshiba_ac:
 climate:
 - platform: toshiba_ac
   id: <id as found by tuya app developer sdk>
