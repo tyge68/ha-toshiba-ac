@@ -1,0 +1,19 @@
+{
+  "domain": "toshiba_ac",
+  "name": "Toshiba AC",
+  "version": "0.0.1",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/toshiba_ac",
+  "requirements": [
+    "tinytuya==1.10.1",
+    "toshiba-ac-ir-codegen==0.0.3"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@tyge68"
+  ],
+  "iot_class": "local_polling"
+}
