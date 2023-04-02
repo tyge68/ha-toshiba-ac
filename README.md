@@ -38,4 +38,4 @@ sensor:
   ...
 ```
 
-NOTE: There are probably better ways to solve it or implenment it, feel free to use it.
+NOTE: There are probably better ways to solve it or implement it, feel free to use it.
